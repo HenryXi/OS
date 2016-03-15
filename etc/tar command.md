@@ -52,6 +52,7 @@ But you can append other parameters when you want compress or extract files.
 **Compress Examples**
 
 1. Put all jpg file in jpg.tar and show the process
+
 ```
 tar -cvf jpg.tar *.jpg
 ```
