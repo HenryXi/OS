@@ -5,21 +5,21 @@ I will show you how to use it in this tutorial. Maybe you can't remember
 all parameters at one time. The more you practice the more skillful you 
 will become.
 
--c: ``c``reate a new archive
--x：e``x``tract files from an archive
--t：lis``t`` the contents of an archive
--r：append files to the end of an archive(**why ``r`` mean append?**)
--u：only append files newer than copy in archive(``u``pdate)
+-c: ``c``reate a new archive  
+-x：e``x``tract files from an archive  
+-t：lis``t`` the contents of an archive  
+-r：append files to the end of an archive(**why ``r`` mean append?**)  
+-u：only append files newer than copy in archive(``u``pdate)  
 
 You can use only **one** of these 5 parameters in a command. You can't create
 a new archive meanwhile extract files from it. They are mutually exclusive.
 But you can append other parameters when you want compress or extract files.
 
--z：filter the archive through gzip(use ``gzip`` compress the archive)
--j：filter the archive through bzip2(use ``bzip2`` compress the archive)
--Z：filter the archive through compress(use ``compress`` compress the archive)
--v：verbosely list files processed
--f: use archive file or device ARCHIVE(**must put it in the last of parameters**)
+-z：filter the archive through gzip(use ``gzip`` compress the archive)  
+-j：filter the archive through bzip2(use ``bzip2`` compress the archive)  
+-Z：filter the archive through compress(use ``compress`` compress the archive)  
+-v：verbosely list files processed  
+-f: use archive file or device ARCHIVE(**must put it in the last of parameters**)  
 
 **Sample Examples**
 
