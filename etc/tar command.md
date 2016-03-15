@@ -24,22 +24,27 @@ But you can append other parameters when you want compress or extract files.
 **Sample Examples**
 
 1. Put all jpg file in all.tar. ``-c`` means create new file(all.tar), use ``-f`` specifying a file name. 
+
     ```
     tar -cf all.tar *.jpg
     ```
 2. Append all gif file in all.tar. ``-r`` means append
+
     ```
     tar -rf all.tar *.gif
     ```
 3. Update old logo.gif in all.tar with new logo.gif file 
+
     ```
     tar -uf all.tar logo.gif
     ```
 4. Show all files in all.tar
+
     ```
     tar -tf all.tar
     ```
 5. Extract all files in all.tar
+
     ```
     tar -xf all.tar
     ```
