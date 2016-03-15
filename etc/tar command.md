@@ -53,39 +53,46 @@ But you can append other parameters when you want compress or extract files.
 
 1. Put all jpg file in jpg.tar and show the process
 
-```
-tar -cvf jpg.tar *.jpg
-```
+    ```
+    tar -cvf jpg.tar *.jpg
+    ```
 2. Package all jpg file in jpg.tar.gz and compress it with ``gzip``
-```
-tar -czf jpg.tar.gz *.jpg
-```
+
+    ```
+    tar -czf jpg.tar.gz *.jpg
+    ```
 3. Package all jpg file in jpg.tar.bz2 and compress it with ``bzip2``
-```
-tar -cjf jpg.tar.bz2 *.jpg
-```
+
+    ```
+    tar -cjf jpg.tar.bz2 *.jpg
+    ```
 4. Package all jpg file in jpg.tar.Z and compress it with ``compress``
-```
-tar -cZf jpg.tar.Z *.jpg
-```
+
+    ```
+    tar -cZf jpg.tar.Z *.jpg
+    ```
 
 **Extract Examples**
 
 1. Extract file.tar and show the process
-```
-tar -xvf file.tar
-```
+
+    ```
+    tar -xvf file.tar
+    ```
 2. Extract file.tar.gz and show the process
-```
-tar -xzvf file.tar.gz
-```
+
+    ```
+    tar -xzvf file.tar.gz
+    ```
 3. Extract file.tar.bz2 and show the process
-```
-tar -xjvf file.tar.bz2
-```
+
+    ```
+    tar -xjvf file.tar.bz2
+    ```
 4. Extract file.tar.Z and show the process
-```
-tar -xZvf file.tar.Z
-```
+
+    ```
+    tar -xZvf file.tar.Z
+    ```
 
 Happy learning.
