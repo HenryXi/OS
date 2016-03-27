@@ -30,6 +30,6 @@ need open deep directory to find ``exe`` file.
     net stop "postgresql-x64-9.3" && net start "postgresql-x64-9.3"
     ```
     Save this file as ``pg.bat`` and move it to your shortcut directory. Now you can ``toggle`` this service as step 3. 
-    Windows + R -> press ``pg`` -> Enter. Now the ``PostgreSQL`` service run. If you Windows + R -> press ``pg`` -> Enter again
-    the service will stop.
+    Windows + R -> press ``pg`` -> Enter. Now the ``PostgreSQL`` service run. If you do this(Windows + R -> press ``pg`` 
+    -> Enter) a second time the service will stop.
     
