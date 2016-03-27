@@ -29,7 +29,7 @@ need open deep directory to find ``exe`` file.
     Let's make ``PostgreSQL`` as example. Find the service name in ``Service``(the name of ``PostgreSQL`` service in my computer
     is ``postgresql-x64-9.3``). Create a text file and add following.
     ```
-    net stop "postgresql-x64-9.3" && net start "postgresql-x64-9.3"
+    sc stop "postgresql-x64-9.3" || sc start "postgresql-x64-9.3"
     ```
     Save this file as ``pg.bat`` and move it to your shortcut directory. Now you can ``toggle`` this service as step 3. 
     Windows + R -> press ``pg`` -> Enter. Now the ``PostgreSQL`` service run. If you do this(Windows + R -> press ``pg`` 
