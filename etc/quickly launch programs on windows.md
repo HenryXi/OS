@@ -20,7 +20,9 @@ need open deep directory to find ``exe`` file.
  
 3. Quickly launch the program.
 
-    Press Windows+R, you can see ``Run`` windows then press ``idea`` -> Enter. Now the ``IDEA`` will start.
+    Press Windows+R, you can see ``Run`` windows then press ``idea`` -> Enter. Now the ``IDEA`` will start. Now you can add
+    the programs you like in shortcut directory and rename them you can remember easily. Next time you want launch just need
+    Windows + R and press a name of programs.
     
 4. Quickly start(stop) a service.
 
