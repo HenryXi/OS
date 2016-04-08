@@ -1,0 +1,4 @@
+http://dongweiming.github.io/blog/archives/ack/
+grep vs ack
+http://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+http://chrinux.blog.51cto.com/6466723/1148613
