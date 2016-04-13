@@ -51,7 +51,7 @@ tail -f info.log | grep 'userid:1188'
 
 **make grep faster**
 
-The examples above only show 
+The examples above only show how to search a work in file. You can replace 'wo'
 //todo 
 ```
 
