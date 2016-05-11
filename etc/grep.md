@@ -51,13 +51,10 @@ tail -f info.log | grep 'userid:1188'
 
 **make grep faster**
 
-The examples above only show how to search a work in file. You can replace 'wo'
-//todo 
+The examples above only show how to search a word in a file. You can replace 'word' with regular expression. If you just
+search a word you can use ``-F`` or use ``fgrep`` directly which is faster than ``grep``. 
 ```
-
+# faster than grep
+grep 'hello' access.log -F 
+fgrep 'hello' access.log
 ```
-
-http://dongweiming.github.io/blog/archives/ack/
-grep vs ack
-http://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
-http://chrinux.blog.51cto.com/6466723/1148613
