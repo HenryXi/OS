@@ -15,7 +15,7 @@ It is easy to open the directory where the command located. You can use [Everyth
 to quickly find any file and open the path. In Windows explorer there is a quickest way to open command prompt
  quickly.
 
-* press ``ctrl + d`` in windows explorer to move the focus to the location bar
+* press ``alt + d`` in windows explorer to move the focus to the location bar
 * type ``cmd`` 
 
 Use the method above you can open command prompt with current path quickly.

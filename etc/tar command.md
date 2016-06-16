@@ -25,27 +25,27 @@ But you can append other parameters when you want compress or extract files.
 
 1. Put all jpg file in all.tar. ``-c`` means create new file(all.tar), use ``-f`` specifying a file name. 
 
-    ```
+    ```bash
     tar -cf all.tar *.jpg
     ```
 2. Append all gif file in all.tar. ``-r`` means append
 
-    ```
+    ```bash
     tar -rf all.tar *.gif
     ```
 3. Update old logo.gif in all.tar with new logo.gif file 
 
-    ```
+    ```bash
     tar -uf all.tar logo.gif
     ```
 4. Show all files in all.tar
 
-    ```
+    ```bash
     tar -tf all.tar
     ```
 5. Extract all files in all.tar
 
-    ```
+    ```bash
     tar -xf all.tar
     ```
 
@@ -53,22 +53,22 @@ But you can append other parameters when you want compress or extract files.
 
 1. Put all jpg file in jpg.tar and show the process
 
-    ```
+    ```bash
     tar -cvf jpg.tar *.jpg
     ```
 2. Package all jpg file in jpg.tar.gz and compress it with ``gzip``
 
-    ```
+    ```bash
     tar -czf jpg.tar.gz *.jpg
     ```
 3. Package all jpg file in jpg.tar.bz2 and compress it with ``bzip2``
 
-    ```
+    ```bash
     tar -cjf jpg.tar.bz2 *.jpg
     ```
 4. Package all jpg file in jpg.tar.Z and compress it with ``compress``
 
-    ```
+    ```bash
     tar -cZf jpg.tar.Z *.jpg
     ```
 
@@ -76,22 +76,22 @@ But you can append other parameters when you want compress or extract files.
 
 1. Extract file.tar and show the process
 
-    ```
+    ```bash
     tar -xvf file.tar
     ```
 2. Extract file.tar.gz and show the process
 
-    ```
+    ```bash
     tar -xzvf file.tar.gz
     ```
 3. Extract file.tar.bz2 and show the process
 
-    ```
+    ```bash
     tar -xjvf file.tar.bz2
     ```
 4. Extract file.tar.Z and show the process
 
-    ```
+    ```bash
     tar -xZvf file.tar.Z
     ```
 
