@@ -1,4 +1,4 @@
-# Count the number of output lines
+# Count the number of output lines in Linux
 If the output or a text file is not too long we can know how many lines. But sometimes the output is 
 to long to show them in one screen. At this point you need `wc` command to count the numbers of output
 lines. For example there are many log files like following.
