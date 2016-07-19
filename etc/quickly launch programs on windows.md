@@ -9,7 +9,7 @@ need open deep directory to find ``exe`` file.
     Let's make a directory(like D:\shortcut) as shortcut. Right click ``My computer`` -> ``Property`` -> 
     ``Advanced system settings`` -> ``Environment variables``. Find ``Path`` in ``System variables`` add your
      shortcut directory in the end. In my computer like following
-     ```
+     ```bash
      .\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%JAVA_HOME%\bin;D:\shortcut
      ```
      
@@ -28,7 +28,7 @@ need open deep directory to find ``exe`` file.
 
     Let's make ``PostgreSQL`` as example. Find the service name in ``Service``(the name of ``PostgreSQL`` service in my computer
     is ``postgresql-x64-9.3``). Create a text file and add following.
-    ```
+    ```bash
     sc stop "postgresql-x64-9.3" || sc start "postgresql-x64-9.3"
     ```
     Save this file as ``pg.bat`` and move it to your shortcut directory. Now you can ``toggle`` this service as step 3. 
