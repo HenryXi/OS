@@ -1,5 +1,5 @@
 # Monitor IO in Linux
-There are a lot of tool to monitor IO in Linux. `iotop` is one of the most common command to monitor IO of each process.
+There are a lot of tools to monitor IO in Linux. `iotop` is one of the most common command to monitor IO of each process.
 `iostat` is another common commands. I will show you how to use them in this blog. 
 
 **iotop**
