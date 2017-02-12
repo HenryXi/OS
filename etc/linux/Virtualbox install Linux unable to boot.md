@@ -9,4 +9,5 @@ This message means you CPU (virtual) does not support PAE. About PAE you can cli
 for more detail. Put simply, 32 bit system can't use more than 4G of memory address space without PAE. 
 
 **Solution**
+
 Enable PAE: go "Settings" -> "System" -> "Processor" and enable "PAE/NX".
