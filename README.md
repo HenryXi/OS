@@ -6,6 +6,7 @@ This page will show you often-used commands in Linux.
 * [Linux grep command examples](http://www.henryxi.com/linux-grep-command-examples)
 * [Count the number of output lines in Linux](http://www.henryxi.com/count-the-number-of-output-lines-in-linux)
 * [Linux alias command example](http://www.henryxi.com/linux-alias-command-example)
+* [Linux alias command permanent](http://www.henryxi.com/linux-alias-command-permanent)
 * [Search string in linux directory](http://www.henryxi.com/search-string-in-linux-directory)
 * [Use top command in Linux](http://www.henryxi.com/use-top-command-in-linux)
 * [Virtualbox install Linux unable to boot](http://www.henryxi.com/virtualbox-install-linux-unable-to-boot)
