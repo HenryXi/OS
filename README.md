@@ -12,3 +12,4 @@ This page will show you often-used commands in Linux.
 * [Virtualbox install Linux unable to boot](http://www.henryxi.com/virtualbox-install-linux-unable-to-boot)
 * [Monitor IO in Linux](http://www.henryxi.com/monitor-io-in-linux)
 * [Linux find command examples](http://www.henryxi.com/linux-find-command-examples)
+* [Enable network after centos minimal install](http://www.henryxi.com/enable-network-after-centos-minimal-install)
