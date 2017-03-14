@@ -14,3 +14,4 @@ This page will show you often-used commands in Linux.
 * [Linux find command examples](http://www.henryxi.com/linux-find-command-examples)
 * [Enable network after centos minimal install](http://www.henryxi.com/enable-network-after-centos-minimal-install)
 * [CentOS remove press any key to enter the menu](http://www.henryxi.com/centos-remove-press-any-key-to-enter-the-menu)
+* [Linux combine files into one](http://www.henryxi.com/linux-combine-files-into-one)
