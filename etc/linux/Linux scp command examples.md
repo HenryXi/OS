@@ -1,4 +1,4 @@
-Linux scp command examples
+# Linux scp command examples
 `scp` command can help you copy file from remote computer. Here are some examples.
 
 **copy local file to remote**
