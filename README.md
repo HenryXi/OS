@@ -16,3 +16,4 @@ This page will show you often-used commands in Linux.
 * [CentOS remove press any key to enter the menu](http://www.henryxi.com/centos-remove-press-any-key-to-enter-the-menu)
 * [Linux combine files into one](http://www.henryxi.com/linux-combine-files-into-one)
 * [Linux awk command examples](http://www.henryxi.com/linux-awk-command-examples)
+* [Linux scp command examples](http://www.henryxi.com/linux-scp-command-examples)
