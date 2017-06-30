@@ -1,5 +1,5 @@
 # CentOS show version number
-In CentOS run the following command can get the version number.
+In CentOS, run the following command will get the version number.
 ```bash
 cat /etc/centos-release
 ```
