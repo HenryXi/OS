@@ -40,27 +40,7 @@ OPTERR=1
 OPTIND=1
 OSTYPE=linux-gnu
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
-PIPESTATUS=([0]="0")
-PPID=1849
-PROMPT_COMMAND='printf "\033]0;%s@%s:%s\007" "${USER}" "${HOSTNAME%%.*}" "${PWD/#$HOME/~}"'
-PS1='[\u@\h \W]\$ '
-PS2='> '
-PS4='+ '
-PWD=/root
-SELINUX_LEVEL_REQUESTED=
-SELINUX_ROLE_REQUESTED=
-SELINUX_USE_CURRENT_RANGE=
-SHELL=/bin/bash
-SHELLOPTS=braceexpand:emacs:hashall:histexpand:history:interactive-comments:monitor
-SHLVL=1
-SSH_CLIENT='10.232.29.77 52306 22'
-SSH_CONNECTION='10.232.29.77 52306 10.232.29.78 22'
-SSH_TTY=/dev/pts/1
-TERM=xterm
-UID=0
-USER=root
-_=/root
-colors=/etc/DIR_COLORS
+# lots of variables 
 ```
 Use `export` if you want set a new value to the environment variable. For example I want add `/root/tool/apache-maven-3.0.5/bin`
 to `PATH`. The command is like following.
