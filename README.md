@@ -19,3 +19,4 @@ This page will show you often-used commands in Linux.
 * [Linux scp command examples](http://www.henryxi.com/linux-scp-command-examples)
 * [CentOS show version number](http://www.henryxi.com/centos-show-version-number)
 * [Linux show folder(directory) size](http://www.henryxi.com/linux-show-folderdirectory-size)
+* [Linux list and set environment variable](http://www.henryxi.com/linux-list-and-set-environment-variable)
