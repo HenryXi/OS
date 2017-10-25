@@ -18,3 +18,4 @@ This page will show you often-used commands in Linux.
 * [Linux awk command examples](http://www.henryxi.com/linux-awk-command-examples)
 * [Linux scp command examples](http://www.henryxi.com/linux-scp-command-examples)
 * [CentOS show version number](http://www.henryxi.com/centos-show-version-number)
+* [Linux show folder(directory) size](http://www.henryxi.com/linux-show-folderdirectory-size)
