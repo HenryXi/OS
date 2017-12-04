@@ -21,3 +21,4 @@ This page will show you often-used commands in Linux.
 * [Linux show folder(directory) size](http://www.henryxi.com/linux-show-folderdirectory-size)
 * [Linux list and set environment variable](http://www.henryxi.com/linux-list-and-set-environment-variable)
 * [Linux no space left on device](http://www.henryxi.com/linux-no-space-left-on-device)
+* [Linux yum install rpm file locally](http://www.henryxi.com/linux-yum-install-rpm-file-locally)
