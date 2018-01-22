@@ -1,6 +1,6 @@
 # Linux mint add IDEA in applications menu
 After downloading and unzipping the tar.gz file of IDEA I can start it by executing `idea.sh`. But I want to add it in Linux 
-mint applications menu . For Linux mint the applications menu info is in `/ usr / share / applications /`. Creating the file 
+mint applications menu. For Linux mint the applications menu info is in `/ usr / share / applications /`. Creating the file 
 `idea.desktop` in this directory. The content is like following.
 ```
 [Desktop Entry]
