@@ -26,4 +26,3 @@ This page will show you often-used commands in Linux.
 * [Linux mint make Chinese fonts clear](http://www.henryxi.com/linux-mint-make-chinese-fonts-clear)
 * [Linux mint add IDEA in applications menu](http://www.henryxi.com/linux-mint-add-idea-in-applications-menu)
 * [Linux mint disable service autostart](http://www.henryxi.com/linux-mint-disable-service-autostart)
-* [Intellij IDEA keyboard shortcuts not working](http://www.henryxi.com/intellij-idea-keyboard-shortcuts-not-working)
