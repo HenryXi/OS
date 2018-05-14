@@ -1,6 +1,6 @@
 # Linux awk bigger or less than
-Let's say you have a file which contains log content. `awk` command can help you split every line of it and print the field 
-you care about. `awk` can do more than this. Let's say your log file might look like this.
+Let's say you have a file which contains log content. `awk` command can help you split every line and print the field which 
+you care about. Let's say your log file looks like following.
 ```
 INFO 2018-04-27 00:00:00 version=2.5.3 time_cost=10
 INFO 2018-04-27 00:00:00 version=2.5.3 time_cost=18
@@ -25,6 +25,8 @@ time_cost=83
 time_cost=37
 time_cost=58
 ```
+`awk` command can do more then this. 
+
 Print the time cost bigger than 50.
 ```bash
 [henry@virtual ~]$ cat log_file |awk -F 'time_cost=' '$2>50 {print}'
