@@ -10,6 +10,7 @@ This page will show you often-used commands in Linux.
 * [Search string in linux directory](http://www.henryxi.com/search-string-in-linux-directory)
 * [Use top command in Linux](http://www.henryxi.com/use-top-command-in-linux)
 * [Virtualbox install Linux unable to boot](http://www.henryxi.com/virtualbox-install-linux-unable-to-boot)
+* [VirtualBox CentOS static ip address](http://www.henryxi.com/virtualbox-centos-static-ip-address)
 * [Monitor IO in Linux](http://www.henryxi.com/monitor-io-in-linux)
 * [Linux find command examples](http://www.henryxi.com/linux-find-command-examples)
 * [Enable network after centos minimal install](http://www.henryxi.com/enable-network-after-centos-minimal-install)
