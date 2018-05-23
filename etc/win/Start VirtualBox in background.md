@@ -8,4 +8,15 @@ run VirtualBox in the background. It seems like this.
 
 Now I can click this bat file and wait for CentOS start.
 
+**How do I know if the virtual machine has started successfully?**
+
+Add following command in bat script file. Ping this virtual machine in loop until the ping succeeds, and then connect to 
+this virtual machine by a shortcut of Xshell. The contents of the entire script is like following.
+```
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm "linux" --type headless
+:loop
+timeout 2
+ping -n 1 192.168.56.6 |find "TTL=" || goto :loop
+D:\shortcut\virtual.lnk
+```
 EOF
