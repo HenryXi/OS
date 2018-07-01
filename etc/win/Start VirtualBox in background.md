@@ -17,7 +17,6 @@ this virtual machine by a shortcut of Xshell. The contents of the entire script 
 :loop
 timeout 2
 ping -n 1 192.168.56.6 |find "TTL=" || goto :loop
-D:\shortcut\virtual.lnk
-exit /b
+start D:\shortcut\virtual.lnk
 ```
 EOF
