@@ -30,3 +30,4 @@ This page will show you often-used commands in Linux.
 * [Linux mint disable service autostart](http://www.henryxi.com/linux-mint-disable-service-autostart)
 * [Linux rename command example](http://www.henryxi.com/linux-rename-command-example)
 * [Linux curl command examples](http://www.henryxi.com/linux-curl-command-examples)
+* [rm Argument list too long](http://www.henryxi.com/rm-argument-list-too-long)
