@@ -24,6 +24,7 @@ This page will show you often-used commands in Linux.
 * [Linux list and set environment variable](http://www.henryxi.com/linux-list-and-set-environment-variable)
 * [Linux no space left on device](http://www.henryxi.com/linux-no-space-left-on-device)
 * [Linux yum install rpm file locally](http://www.henryxi.com/linux-yum-install-rpm-file-locally)
+* [Linux yum show installed packages](http://www.henryxi.com/linux-yum-show-installed-packages)
 * [Linux locate command example](http://www.henryxi.com/linux-locate-command-example)
 * [Linux mint make Chinese fonts clear](http://www.henryxi.com/linux-mint-make-chinese-fonts-clear)
 * [Linux mint add IDEA in applications menu](http://www.henryxi.com/linux-mint-add-idea-in-applications-menu)
