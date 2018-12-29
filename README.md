@@ -33,3 +33,4 @@ This page will show you often-used commands in Linux.
 * [Linux curl command examples](http://www.henryxi.com/linux-curl-command-examples)
 * [rm Argument list too long](http://www.henryxi.com/rm-argument-list-too-long)
 * [Linux share directory with python](http://www.henryxi.com/linux-share-directory-with-python)
+* [Linux telnet check remote port](http://www.henryxi.com/linux-telnet-check-remote-port)
