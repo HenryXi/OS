@@ -32,3 +32,4 @@ This page will show you often-used commands in Linux.
 * [Linux rename command example](http://www.henryxi.com/linux-rename-command-example)
 * [Linux curl command examples](http://www.henryxi.com/linux-curl-command-examples)
 * [rm Argument list too long](http://www.henryxi.com/rm-argument-list-too-long)
+* [Linux share directory with python](http://www.henryxi.com/linux-share-directory-with-python)
