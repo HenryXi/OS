@@ -1,4 +1,4 @@
-#CentOS install docker
+# CentOS install docker
 It is easy to install docker in CentOS. Open the official website of docker copy commands and paste them in your terminal.
 now docker only support CentOS7+. Before installing you need make sure your CentOS version is higher than 7.
 For the detail you can click [here](https://docs.docker.com/install/linux/docker-ce/centos/)
