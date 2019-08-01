@@ -35,3 +35,4 @@ This page will show you often-used commands in Linux.
 * [Linux share directory with python](http://www.henryxi.com/linux-share-directory-with-python)
 * [Linux telnet check remote port](http://www.henryxi.com/linux-telnet-check-remote-port)
 * [Linux quickly create a big file](http://www.henryxi.com/linux-quickly-create-a-big-file)
+* [Linux sed command example](http://www.henryxi.com/linux-sed-command-example)
