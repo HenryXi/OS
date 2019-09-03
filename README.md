@@ -37,3 +37,4 @@ This page will show you often-used commands in Linux.
 * [Linux quickly create a big file](http://www.henryxi.com/linux-quickly-create-a-big-file)
 * [Linux sed command example](http://www.henryxi.com/linux-sed-command-example)
 * [Linux crontab example](http://www.henryxi.com/linux-crontab-example)
+* [Linux restart one network interface](http://www.henryxi.com/linux-restart-one-network-interface)
