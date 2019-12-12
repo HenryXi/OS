@@ -27,6 +27,8 @@ Use following command to mount shared folders in virtual system.
 ```
 mkdir /mnt/vboxshare
 mount -t vboxsf <your_share_folder_name> /mnt/vboxshare/
+# use following command to unmount
+umount -f /mnt/vboxshare
 ```
 
 EOF
