@@ -18,6 +18,9 @@ cd /mnt/cdrom
 ```
 This will take few minutes. After installation you can config share folder between host and virtualBox.
 
+
+**Config shared folder**
+
 Click `devices` -> `Shared Folders..` and config share folder path and share folder name. 
 
 Use following command to mount shared folders in virtual system.
