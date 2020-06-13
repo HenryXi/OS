@@ -39,3 +39,4 @@ This page will show you often-used commands in Linux.
 * [Linux crontab example](http://www.henryxi.com/linux-crontab-example)
 * [Linux restart one network interface](http://www.henryxi.com/linux-restart-one-network-interface)
 * [CentOS config double network adapter](http://www.henryxi.com/centos-config-double-network-adapter)
+* [Linux wget output to stdout](http://www.henryxi.com/linux-wget-output-to-stdout)
