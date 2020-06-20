@@ -40,3 +40,4 @@ This page will show you often-used commands in Linux.
 * [Linux restart one network interface](http://www.henryxi.com/linux-restart-one-network-interface)
 * [CentOS config double network adapter](http://www.henryxi.com/centos-config-double-network-adapter)
 * [Linux wget output to stdout](http://www.henryxi.com/linux-wget-output-to-stdout)
+* [Linux systemctl list all services](http://www.henryxi.com/linux-systemctl-list-all-services)
