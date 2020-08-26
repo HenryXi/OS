@@ -42,3 +42,4 @@ This page will show you often-used commands in Linux.
 * [Linux wget output to stdout](http://www.henryxi.com/linux-wget-output-to-stdout)
 * [Linux systemctl list all services](http://www.henryxi.com/linux-systemctl-list-all-services)
 * [Linux netstat example](http://www.henryxi.com/linux-netstat-example)
+* [Linux vmstat command examples](http://www.henryxi.com/linux-vmstat-command-examples)
