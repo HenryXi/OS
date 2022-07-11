@@ -7,5 +7,7 @@ Use `python -m SimpleHTTPServer <port>`. `python` command is installed for most 
 current directory will shared by this port. You can access these files by browser. Just input `remote server IP:port` in
 the address bar.
 
+For `python3`, use this command `python3 -m http.server <port>`
+
 
 EOF 
